@@ -1,5 +1,5 @@
 console.clear();
-// 5. Parašyti funkciją, kuri nustatytų ar du paduodami argumentai yra lygūs. Gražiname true arba false ! ! !
+// 5. Parašyti funkciją, kuri nustatytų ar du paduodami argumentai yra lygūs. Gražiname true arba false ! ! ! ! !
 
 // TEST:
 // isSameNum(4, 8) ➞ false

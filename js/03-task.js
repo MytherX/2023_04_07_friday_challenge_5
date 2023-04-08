@@ -1,7 +1,7 @@
 console.clear();
 // 3. Parašyti funkciją, kuri skaičiuotų krepšinio taškus, pirmas perduodamas parametras baudų skaičius, 
 // antras perduodamas parametras dvitaškių skaičius, trečias perduodamas tritaškių. 
-// Apskaičiuoti ir gražinti bendrą surinkta komandos taškų skaičių ! ! !
+// Apskaičiuoti ir gražinti bendrą surinkta komandos taškų skaičių ! ! ! ! !
 
 // TEST:
 // basketballPoints(5, 25, 10) ➞ 85

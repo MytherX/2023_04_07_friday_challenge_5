@@ -1,6 +1,6 @@
 console.clear();
 // 1. Parašyti funkciją, kuriai būtų perduodamas vienas parametras skaičius, kuris
-// padidinamas vienetu ir gražinamas rezultatas ! ! !
+// padidinamas vienetu ir gražinamas rezultatas ! ! ! ! !
 
 // TEST:
 // addition(0) ➞ 1

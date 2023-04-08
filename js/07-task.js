@@ -1,5 +1,5 @@
 console.clear();
-// 7. Parašyti funkciją, kuri atspausdintų paduodamo skaičiaus daugybos lentelę ! ! !
+// 7. Parašyti funkciją, kuri atspausdintų paduodamo skaičiaus daugybos lentelę ! ! ! ! !
 
 // TEST:
 // Multiplication(3) ➞

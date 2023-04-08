@@ -1,6 +1,6 @@
 console.clear();
 // 2. Parašyti funkciją, kuriai būtų perduodamas vienas parametras skaičius(valandos) 
-// ir  konvertuotų valandos į sekundes, bei gražintų rezultatą ! ! !
+// ir  konvertuotų valandos į sekundes, bei gražintų rezultatą ! ! ! ! !
 
 // TEST:
 // howManySeconds(2) ➞ 7200

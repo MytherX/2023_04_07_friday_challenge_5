@@ -1,7 +1,7 @@
 console.clear();
 // 6. Sukurti funkciją, kuri nustatytų, kuris iš paduodamų parametrų skaičių (n1, n2) yra didesnis.
 // Jei n1 didesnis gražintų tekstą "n1 skaičius didesnis", jei "n2 skaičius didesnis", 
-// jei skaičiai lygūs gražintų n1 lygus n2 ! ! !
+// jei skaičiai lygūs gražintų n1 lygus n2 ! ! ! ! !
 
 // TEST:
 // comparisonNum(10, 20) ➞ "20 yra didesnis skaičius"
