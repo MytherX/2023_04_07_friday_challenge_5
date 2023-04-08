@@ -1,6 +1,6 @@
 # Friday Challenge 5 - 2023.04.07
 
-## 🌟 Tasks [In Lithuanian language]:
+## 🌟 Tasks [In Lithuanian language]
 
 1. Parašyti f-ją, kuriai būtų perduodamas vienas parametras skaičius, kuris
 padidinamas vienetu ir gražinamas rezultatas
